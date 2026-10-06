@@ -1,0 +1,7 @@
+{
+  "rows_processed": 1728000,
+  "elapsed_seconds": 0.76,
+  "cpu_cores_used": 12,
+  "throughput_per_core_per_sec": 190291.0,
+  "node_capacity_cpu_units": 1902.91
+}

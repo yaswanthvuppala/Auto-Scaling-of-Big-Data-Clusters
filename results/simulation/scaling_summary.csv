@@ -1,0 +1,16 @@
+sla_violation_rate (%),total_cost ($),avg_nodes,max_nodes,avg_over_provision (%),total_sla_violations,total_steps,dataset,policy,model
+1.74,297.32,17.21,22,41.92,30,1728,d1_alibaba_2018,reactive,none
+0.0,314.59,18.21,25,45.25,0,1728,d1_alibaba_2018,predictive,MA
+0.0,316.32,18.31,25,45.57,0,1728,d1_alibaba_2018,predictive,LR
+0.0,316.21,18.3,25,45.56,0,1728,d1_alibaba_2018,predictive,HW
+0.0,312.78,18.1,24,45.11,0,1728,d1_alibaba_2018,predictive,GB
+1.97,298.08,17.25,22,41.96,34,1728,d2_azure_2019,reactive,none
+0.0,316.33,18.31,25,45.52,0,1728,d2_azure_2019,predictive,MA
+0.0,317.2,18.36,25,45.78,0,1728,d2_azure_2019,predictive,LR
+0.0,316.7,18.33,25,45.69,0,1728,d2_azure_2019,predictive,HW
+0.0,317.24,18.36,25,45.79,0,1728,d2_azure_2019,predictive,GB
+1.91,298.61,17.28,22,42.07,33,1728,d3_alibaba_gpu_2020,reactive,none
+0.0,316.92,18.34,25,45.63,0,1728,d3_alibaba_gpu_2020,predictive,MA
+0.0,316.32,18.31,25,45.57,0,1728,d3_alibaba_gpu_2020,predictive,LR
+0.0,316.23,18.3,25,45.58,0,1728,d3_alibaba_gpu_2020,predictive,HW
+0.0,316.35,18.31,25,45.57,0,1728,d3_alibaba_gpu_2020,predictive,GB

@@ -1,0 +1,33 @@
+# Exclude data entirely (datasets are too large for GitHub)
+data/
+data/**
+
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Spark / Hadoop temporary files and binaries
+hadoop/
+temp_*
+spark-warehouse/
+metastore_db/
+derby.log
+*.log
+
+# Model artifacts and binary dumps
+models/*.pkl
+models/*.joblib
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE metadata
+.vscode/
+.idea/
